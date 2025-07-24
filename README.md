@@ -7,7 +7,8 @@ This project analyzes the Uber Fares dataset using Python (for data preparation)
 > 🔍 **Course**: INSY 8413 - Introduction to Big Data Analytics  
 > 👨‍🏫 **Instructor**: Eric Maniraguha  
 > 🗓️ **Assignment Date**:24th July 2025
-> **name**: IMENA VICKY **ID**:26964
+
+> name: **IMENA VICKY** ID:**26964**
 
 ---
 
