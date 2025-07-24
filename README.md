@@ -93,6 +93,18 @@ This project analyzes the Uber Fares dataset using Python (for data preparation)
 <img width="960" height="423" alt="descriptive statitistics" src="https://github.com/user-attachments/assets/d933abce-29b8-42d0-ba0e-e87462469f06" />
 
 
+**Summary of Main Findings**
+
+-Uber rides follow clear temporal and spatial patterns
+-Ride volume and fare pricing are influenced by peak/off-peak times
+-Urban locations show ride hotspots
+-Feature engineering added meaningful insights to original dataset
+**Recommendations: Data-Driven Suggestions**
+
+🚦 Use dynamic pricing in known peak hours
+🚗 Allocate more vehicles in pickup hotspots
+💸 Offer promotions during off-peak to balance traffic
+📱 Enhance app with live pricing/wait alerts for users
 
 
 ## 📌 Conclusion
